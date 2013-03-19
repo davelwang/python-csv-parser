@@ -1,7 +1,7 @@
 python-csv-parser
 =================
 
-Python implementation of a CSV parser, to prune unwanted columns in large CSV files
+Python implementation of a CSV parser, to prune unwanted columns in large CSV files.  Also includes other useful CSV utilities
 
 The idea is that a script (get_csv_header.py) would grab the headers off a CSV file and store the result as a file, which would then allow the user to select which headers to keep.
 
